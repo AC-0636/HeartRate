@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Heart Rate Test</string>
+    <string name="setting">setting</string>
+    <string name="permissions_allow">Permissions Allow</string>
+    <string name="permissions_deny">Permissions Deny</string>
+    <string name="permission_camera_dialog_title">Turn on camera</string>
+    <string name="permission_camera_dialog_msg_scanner">Please give permission to access the camera.</string>
+    <string name="permission_camera_denied_msg">Permission denied, unable to turn on the camera.</string>
+    <string name="permission_camera_never_ask_again">You had prohibited to access for permission, please change your setting.</string>
+
+</resources>
